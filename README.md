@@ -18,3 +18,4 @@ Working :
           third line means if 0th title is already selected then call css property content show otherwise call css property content
           where we have set maxheight to 0 which means content is hidden.
           
+![Screenshot (278)](https://github.com/sunphoenix1707/React-Accordion/assets/114605699/6f1d8bda-1da9-4309-bd94-b47f66eb3adb)
